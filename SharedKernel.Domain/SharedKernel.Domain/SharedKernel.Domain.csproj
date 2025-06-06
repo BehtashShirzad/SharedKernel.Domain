@@ -9,16 +9,16 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Behtash.SharedKernel</PackageId>
     
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     
     <Authors>Behtash</Authors>
     
- 
+  <PackageReadmeFile>README.md</PackageReadmeFile>
     <Description>Shared Kernel library </Description>
     
     <PackageTags>sharedkernel;domain</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-
+ <PackageProjectUrl>https://github.com/BehtashShirzad/SharedKernel.Domain</PackageProjectUrl> 
 
   </PropertyGroup>
 
