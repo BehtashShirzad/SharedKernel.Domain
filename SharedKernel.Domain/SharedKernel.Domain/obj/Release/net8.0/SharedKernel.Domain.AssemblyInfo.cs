@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Shared Kernel library ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.6.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.6+25ef441d5a5e5dfd3423a778a122c8d196fa8bfe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.6+020ad26e34db532f898c29be195c5b09259904f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SharedKernel.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SharedKernel.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.6.0")]
