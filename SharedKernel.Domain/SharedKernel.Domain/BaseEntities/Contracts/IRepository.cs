@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SharedKernel.Domain.Interfaces
+namespace SharedKernel.Domain.BaseEntities.Contracts
 {
     public interface IRepository
     {
