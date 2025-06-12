@@ -8,7 +8,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
  
 using Ardalis.GuardClauses;
 
-namespace Crm.SharedKernel.Domain.BaseEntities
+namespace SharedKernel.Domain.BaseEntities
 {
     public abstract record Enumeration
     {

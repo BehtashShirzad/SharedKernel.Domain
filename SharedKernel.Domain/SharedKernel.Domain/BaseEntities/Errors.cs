@@ -1,6 +1,6 @@
 ﻿
 
-namespace Crm.SharedKernel.Domain.BaseEntities
+namespace SharedKernel.Domain.BaseEntities
 {
     internal class Errors
     {

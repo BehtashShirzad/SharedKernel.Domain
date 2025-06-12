@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Crm.SharedKernel.Domain.BaseEntities
+namespace SharedKernel.Domain.BaseEntities
 {
     public class DomainException : Exception
     {

@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace Crm.SharedKernel.Domain.BaseEntities
+namespace SharedKernel.Domain.BaseEntities
 {
     public class Result
     {

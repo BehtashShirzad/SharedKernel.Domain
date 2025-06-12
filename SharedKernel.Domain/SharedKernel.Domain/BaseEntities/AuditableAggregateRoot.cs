@@ -1,11 +1,11 @@
-﻿using Crm.SharedKernel.Domain.BaseEntities.Contracts;
+﻿using SharedKernel.Domain.BaseEntities.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Crm.SharedKernel.Domain.BaseEntities
+namespace SharedKernel.Domain.BaseEntities
 {
     public abstract class AuditableAggregateRoot<TId> : AuditableEntity<TId>, IAggregateRoot
         where TId : IEquatable<TId>
